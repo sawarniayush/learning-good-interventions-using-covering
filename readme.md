@@ -32,4 +32,12 @@ The algorithm needs a model file describing the problem instance and an experime
             -e experiment.pkl 
             -o output_file_name #The output of the experiment would be stored in this file
     ```
-
+## Citation
+```
+@InProceedings{sawarni2023learning,
+	title = {Learning good interventions in causal graphs via covering},
+	author = {Sawarni, Ayush and Madhavan, Rahul and Sinha, Gaurav and Barman, Siddharth},
+    booktitle = {UAI},
+    year= {2023}
+}
+```
