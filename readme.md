@@ -10,7 +10,7 @@ This implementation has been tested with
 ## Running the algorithm
 The algorithm needs a model file describing the problem instance and an experiments file. Both these files are Python dictionaries stored in pickle format. The syntax for both is given below -
 
-1. Model file
+1. Model File
     ```python
     #Model file is a python dictionary with the following keys
     'graph':[[],[0],[1]], #Causal DAG represented as an adjacency list with the last node as the reward node
