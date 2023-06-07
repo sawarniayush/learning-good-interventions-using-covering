@@ -1,5 +1,6 @@
 # Learning Good Interventions in Causal Graphs via Covering
-
+This repository contains the source code for the experiments done in UAI 2023 paper "Learning Good Interventions in Causal Graphs via Covering" by Ayush Sawarni, Rahul Madhavan, Gaurav Sinha and Siddharth Barman.
+ [[Arxiv](https://arxiv.org/abs/2305.04638)]
 ## Dependencies
 This implementation has been tested with
 - Python 3
