@@ -33,11 +33,19 @@ The algorithm needs a model file describing the problem instance and an experime
             -o output_file_name #The output of the experiment would be stored in this file
     ```
 ## Citation
+```@misc{sawarni2023learning,
+      title={Learning Good Interventions in Causal Graphs via Covering}, 
+      author={Ayush Sawarni and Rahul Madhavan and Gaurav Sinha and Siddharth Barman},
+      year={2023},
+      eprint={2305.04638},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
-@InProceedings{sawarni2023learning,
+
+<!-- @InProceedings{sawarni2023learning,
 	title = {Learning good interventions in causal graphs via covering},
 	author = {Sawarni, Ayush and Madhavan, Rahul and Sinha, Gaurav and Barman, Siddharth},
     booktitle = {UAI},
     year= {2023}
-}
-```
+} -->
